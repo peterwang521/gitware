@@ -1,3 +1,4 @@
 learn git again!
-learn easy, use hard!
+learn easy, use hard, master more hard!
 good good study,day day up!
+today is a good day!
