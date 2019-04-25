@@ -6,3 +6,4 @@ tianren is near the ZAOSHAN
 svn is too low
 so wo choose git
 create a new branch is easy
+use --no--ff
